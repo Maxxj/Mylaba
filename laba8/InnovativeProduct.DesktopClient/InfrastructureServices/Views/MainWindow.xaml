@@ -29,7 +29,6 @@
             <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding Specifications}"></TextBlock>
             <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding Indicators}"></TextBlock>
             <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding ExpectedEffects}"></TextBlock>
-            <Button x:Name="saveButton" Width="100" Height="50" Click="btn1_Click" Content="Обновить БД" />
         </StackPanel>
     </Grid>
 

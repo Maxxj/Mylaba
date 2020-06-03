@@ -34,3 +34,12 @@ C:\Users\User\Downloads\МОЯ ЛАБА лаба8\practika8\InnovativeProduct.Ge
 C:\Users\User\Downloads\МОЯ ЛАБА лаба8\practika8\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.csproj.CoreCompileInputs.cache
 C:\Users\User\Downloads\МОЯ ЛАБА лаба8\practika8\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.dll
 C:\Users\User\Downloads\МОЯ ЛАБА лаба8\practika8\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.pdb
+C:\Users\User\Downloads\Mylaba-master\Mylaba-master\laba8\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.deps.json
+C:\Users\User\Downloads\Mylaba-master\Mylaba-master\laba8\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.dll
+C:\Users\User\Downloads\Mylaba-master\Mylaba-master\laba8\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.pdb
+C:\Users\User\Downloads\Mylaba-master\Mylaba-master\laba8\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Mylaba-master\Mylaba-master\laba8\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Mylaba-master\Mylaba-master\laba8\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.AssemblyInfo.cs
+C:\Users\User\Downloads\Mylaba-master\Mylaba-master\laba8\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Mylaba-master\Mylaba-master\laba8\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.dll
+C:\Users\User\Downloads\Mylaba-master\Mylaba-master\laba8\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.pdb

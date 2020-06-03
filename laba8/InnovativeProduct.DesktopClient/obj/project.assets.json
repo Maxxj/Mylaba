@@ -1153,11 +1153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\МОЯ ЛАБА лаба8\\practika8\\InnovativeProduct.DesktopClient\\InnovativeProduct.DesktopClient.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\Mylaba-master\\Mylaba-master\\laba8\\InnovativeProduct.DesktopClient\\InnovativeProduct.DesktopClient.csproj",
       "projectName": "InnovativeProduct.DesktopClient",
-      "projectPath": "C:\\Users\\User\\Downloads\\МОЯ ЛАБА лаба8\\practika8\\InnovativeProduct.DesktopClient\\InnovativeProduct.DesktopClient.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\Mylaba-master\\Mylaba-master\\laba8\\InnovativeProduct.DesktopClient\\InnovativeProduct.DesktopClient.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\МОЯ ЛАБА лаба8\\practika8\\InnovativeProduct.DesktopClient\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\Mylaba-master\\Mylaba-master\\laba8\\InnovativeProduct.DesktopClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1173,11 +1173,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Downloads\\МОЯ ЛАБА лаба8\\practika8\\InnovativeProduct.GeneralLogic\\InnovativeProduct.GeneralLogic.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\МОЯ ЛАБА лаба8\\practika8\\InnovativeProduct.GeneralLogic\\InnovativeProduct.GeneralLogic.csproj"
+            "C:\\Users\\User\\Downloads\\Mylaba-master\\Mylaba-master\\laba8\\InnovativeProduct.GeneralLogic\\InnovativeProduct.GeneralLogic.csproj": {
+              "projectPath": "C:\\Users\\User\\Downloads\\Mylaba-master\\Mylaba-master\\laba8\\InnovativeProduct.GeneralLogic\\InnovativeProduct.GeneralLogic.csproj"
             },
-            "C:\\Users\\User\\Downloads\\МОЯ ЛАБА лаба8\\practika8\\InnovativeProduct.WebService\\InnovativeProduct.WebService.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\МОЯ ЛАБА лаба8\\practika8\\InnovativeProduct.WebService\\InnovativeProduct.WebService.csproj"
+            "C:\\Users\\User\\Downloads\\Mylaba-master\\Mylaba-master\\laba8\\InnovativeProduct.WebService\\InnovativeProduct.WebService.csproj": {
+              "projectPath": "C:\\Users\\User\\Downloads\\Mylaba-master\\Mylaba-master\\laba8\\InnovativeProduct.WebService\\InnovativeProduct.WebService.csproj"
             }
           }
         }
@@ -1217,9 +1217,6 @@
           }
         ],
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           },

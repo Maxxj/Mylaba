@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "curhlVAIWqNRxDs6dU78sONETsFMCzAEwZ58T2ubPSS6RmXkUUyCK2BDSPmvFWDt2VBmkK2006cwII1ybw+OdA==",
+  "dgSpecHash": "U4S+mCbCfK60u6A56gvumbR5PRGhzHDQ+2JUlGyZGnMVVcEmTN0KIddZZRswKi8hG170hgSfsfA4JBL9UQ/HdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Downloads\\МОЯ ЛАБА лаба8\\practika8\\InnovativeProduct.WebService\\InnovativeProduct.WebService.csproj",
+  "projectFilePath": "C:\\Users\\User\\Downloads\\Mylaba-master\\Mylaba-master\\laba8\\InnovativeProduct.WebService\\InnovativeProduct.WebService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
