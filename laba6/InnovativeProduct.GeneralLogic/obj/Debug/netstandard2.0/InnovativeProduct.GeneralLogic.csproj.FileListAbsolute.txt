@@ -1,0 +1,36 @@
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.deps.json
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.pdb
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.AssemblyInfo.cs
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.pdb
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.deps.json
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.pdb
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.AssemblyInfo.cs
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.pdb
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.deps.json
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.pdb
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.AssemblyInfo.cs
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.pdb
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.deps.json
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.GeneralLogic\bin\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.pdb
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.AssemblyInfo.cs
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.GeneralLogic\obj\Debug\netstandard2.0\InnovativeProduct.GeneralLogic.pdb

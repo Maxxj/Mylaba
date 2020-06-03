@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+	
+	<ItemGroup>
+		<None Remove="Fonts\MoscowSand.ttf" />
+	</ItemGroup>
+
+	<ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+	
+	<ItemGroup>
+		<Page Include="App.xaml" />
+	</ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\InnovativeProduct.GeneralLogic\InnovativeProduct.GeneralLogic.csproj" />
+    <ProjectReference Include="..\InnovativeProduct.WebService\InnovativeProduct.WebService.csproj" />
+  </ItemGroup>
+
+	
+</Project>

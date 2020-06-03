@@ -1,0 +1,259 @@
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.exe
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.deps.json
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.runtimeconfig.json
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.runtimeconfig.dev.json
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.pdb
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.GeneralLogic.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.GeneralLogic.pdb
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.AssemblyInfo.cs
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.RazorTargetAssemblyInfo.cache
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.csproj.CopyComplete
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\staticwebassets\InnovativeProduct.WebService.StaticWebAssets.Manifest.cache
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\staticwebassets\InnovativeProduct.WebService.StaticWebAssets.xml
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.dll
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.pdb
+C:\Users\User\Downloads\Web-servise-practika3\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.genruntimeconfig.cache
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.exe
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.deps.json
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.runtimeconfig.json
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.runtimeconfig.dev.json
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.pdb
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.GeneralLogic.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.GeneralLogic.pdb
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.csprojAssemblyReference.cache
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.AssemblyInfo.cs
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.RazorTargetAssemblyInfo.cache
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.csproj.CopyComplete
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\staticwebassets\InnovativeProduct.WebService.StaticWebAssets.Manifest.cache
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\staticwebassets\InnovativeProduct.WebService.StaticWebAssets.xml
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.dll
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.pdb
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.genruntimeconfig.cache
+C:\Users\User\Downloads\practika6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\NCrontab.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.exe
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.deps.json
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.runtimeconfig.json
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.runtimeconfig.dev.json
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.pdb
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\NCrontab.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.GeneralLogic.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.GeneralLogic.pdb
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.AssemblyInfo.cs
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.csproj.CopyComplete
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\staticwebassets\InnovativeProduct.WebService.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\staticwebassets\InnovativeProduct.WebService.StaticWebAssets.xml
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.dll
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.pdb
+C:\Users\User\Desktop\Лабы для Лоха баркова\МОЯ ЛАБА лаба 6\practika6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.genruntimeconfig.cache
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.exe
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.deps.json
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.runtimeconfig.json
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.runtimeconfig.dev.json
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.WebService.pdb
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\NCrontab.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.GeneralLogic.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\bin\Debug\netcoreapp3.1\InnovativeProduct.GeneralLogic.pdb
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.AssemblyInfo.cs
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.csproj.CopyComplete
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\staticwebassets\InnovativeProduct.WebService.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\staticwebassets\InnovativeProduct.WebService.StaticWebAssets.xml
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.dll
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.pdb
+C:\Users\User\Desktop\Лабы для баркова\МОЯ ЛАБА лаба 6\laba6\InnovativeProduct.WebService\obj\Debug\netcoreapp3.1\InnovativeProduct.WebService.genruntimeconfig.cache

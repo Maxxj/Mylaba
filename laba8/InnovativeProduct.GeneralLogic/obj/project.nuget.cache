@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z91B+mwlwBxiaD9aMTLFZlEnuh14uDRQpgb9LW2jtc3LfqMkht0gLNPpp32NjOK1yOp0lrSpvWXMscyuv9Ce4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Downloads\\МОЯ ЛАБА лаба8\\practika8\\InnovativeProduct.GeneralLogic\\InnovativeProduct.GeneralLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
